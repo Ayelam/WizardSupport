@@ -1,0 +1,16 @@
+#Node
+node_modules/
+dist/
+.angular/
+
+#Python
+__pycache__/
+*.pyc
+.venv/
+
+#Entorno
+.env
+
+#IDE
+.vscode/
+.idea/
